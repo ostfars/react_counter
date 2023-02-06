@@ -22,3 +22,5 @@ function Costs(props) {
 }
 
 export default Costs;
+
+export default Costs
